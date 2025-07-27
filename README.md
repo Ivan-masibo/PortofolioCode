@@ -1,8 +1,3 @@
-
-
-git init
-
-
 src
 <>index.html
 styles

@@ -17,7 +17,7 @@ portfolio-website
 
 1. Clone the repository to your local machine:
    ```
-   git clone <repository-url>
+   git clone <Ivan masibo>
    ```
 
 2. Navigate to the project directory:
